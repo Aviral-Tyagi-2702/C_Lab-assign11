@@ -1,0 +1,1 @@
+int a = {5}; // Global variable declaration and initialization
